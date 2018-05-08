@@ -1,0 +1,2 @@
+# Python-Webpage-Generator-CarReviews
+This was a first year University project I completed in 2013. It uses Python to generate webpages for each record in a database. It's purpose was to get models of cars and their reviews and display the data in a horizontal histogram.
